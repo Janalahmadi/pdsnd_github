@@ -5,7 +5,7 @@
 ### Explore US Bikeshare Data
 The growing popularity of bicycle-sharing systems has been transforming urban transportation, enabling users to rent bicycles on a short-term basis. These systems leverage information technologies to streamline bike access and return, generating valuable data that can be used for usage pattern analysis. This project delves into bike-sharing usage patterns in Chicago, New York City, and Washington, DC, utilizing data provided by Motivate, a leading bike-sharing provider. 
 
-Using Python and Statis to analyze bike share usage in Chicago, New York City, and Washington, DC, to obtain the following information:
+#### Using Python and Statis to analyze bike share usage in Chicago, New York City, and Washington, DC, to obtain the following information:
 
 #### 1 Popular times of travel (i.e., occurs most often in the start time)
 
