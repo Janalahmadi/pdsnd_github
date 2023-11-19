@@ -39,5 +39,5 @@ Using Python and Statis to analyze bike share usage in Chicago, New York City, a
 
 ### Credits
 
-Data for this project was provided by [Motivate] (https://www.motivateco.com/) Bike Share Data System.
+Data for this project was provided by [Motivate](https://www.motivateco.com/) Bike Share Data System.
 
